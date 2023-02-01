@@ -1,9 +1,14 @@
 body {
-    background: #CCCCCC;
+    
 }
 
 img {
     width: 100%;
+    height: 450px;
+}
+
+.principal {
+    background: #CCCCCC;
 }
 
 h1 {
@@ -11,6 +16,10 @@ h1 {
 }
 
 p {
+    text-align: center;
+}
+
+h2 {
     text-align: center;
 }
 
@@ -24,4 +33,12 @@ em strong {
 
 .itens {
     font-style: italic;
+}
+
+.beneficio {
+    background-color: white;
+}
+
+.img2 {
+    width: 50%;
 }
