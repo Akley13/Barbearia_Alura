@@ -1,5 +1,5 @@
-body {
-    
+.titulo-principal{
+    padding-left: 20px;
 }
 
 img {
@@ -8,19 +8,12 @@ img {
 }
 
 .principal {
+    text-align: center;
     background: #CCCCCC;
     padding: 30px;
 }
 
-h1 {
-    text-align: center;
-}
-
-p {
-    text-align: center;
-}
-
-h2 {
+.tit-centralizado {
     text-align: center;
 }
 
