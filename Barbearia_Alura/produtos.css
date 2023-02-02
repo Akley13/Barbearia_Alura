@@ -78,3 +78,15 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer {
+    text-align: center;
+    background:url("Imagens/bg.jpg");
+    padding-bottom: 20px;
+}
+
+.copy {
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
