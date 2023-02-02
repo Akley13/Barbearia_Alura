@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(218, 207, 207);
+}
+
+nav li {
+    display:inline;
+    vertical-align: top;
+    margin-left: 15px;
+}
+
+nav a {
+    text-transform: uppercase; /* muda a letra para miusculo */
+    color: black;
+    font-weight: bold; /* negrito */
+    font-size: 22px;
+    text-decoration: none;
+}
