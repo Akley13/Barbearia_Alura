@@ -3,10 +3,18 @@ header {
     padding: 20px 0;
 }
 
+.backalura:hover {
+    width: 19%;
+}
+
 .caixa {
     position: relative;
     width: 940px;
     margin: 0 auto;
+}
+
+.caixa li:hover {
+    font-size: 25px;
 }
 
 nav {
