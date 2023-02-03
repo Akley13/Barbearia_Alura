@@ -137,10 +137,28 @@ form label, form legend {
     font-size: 18px;
     border: solid 1.3px black;
     border-radius: 10px;
-    transition: 1s background;
-    cursor: pointer; /* mostrar o cursor clicavél */ 
+    transition: 1s all;
+    cursor: pointer; /* mostrar o cursor clicavél */
+
 }
 
 .enviar:hover {
     background: darkorange;
+    transform: scale(1.1);
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+thead {
+    background: rgb(155, 152, 152);
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
 }
